@@ -1,6 +1,498 @@
 [
-    {
-        "entraTenantId": "4d1cad97-0a73-4067-9a4b-ce3e7107263f",
-        "tenantDescription": "Wareing Group"
-    }
+  {
+    "tenantDescription": "adadea83-29c0-43e7-964d-08f488bf01df",
+    "entraTenantId": "A Test Account"
+  },
+  {
+    "tenantDescription": "816f91f5-a316-4843-94b3-a154eb534efe",
+    "entraTenantId": "AB International Limited"
+  },
+  {
+    "tenantDescription": "d14fac78-01b1-4fe1-a481-b294cb602731",
+    "entraTenantId": "ABI Rehabilitation"
+  },
+  {
+    "tenantDescription": "eb0ed8fd-ca27-4938-9152-532e1c06df62",
+    "entraTenantId": "Accuro Health Insurance"
+  },
+  {
+    "tenantDescription": "2bda6cf0-a980-43e7-831c-1d529adb3673",
+    "entraTenantId": "Alvarium NZ"
+  },
+  {
+    "tenantDescription": "1bfa9730-eb2d-4a75-bf21-c263449ddb94",
+    "entraTenantId": "Aqualine Trading Limited"
+  },
+  {
+    "tenantDescription": "95d38564-1f4c-4f1b-baa7-2d3135a1697a",
+    "entraTenantId": "Argus Fire Systems Service Ltd"
+  },
+  {
+    "tenantDescription": "64939eaf-d7f1-41f3-8bc0-1ed17a5d866d",
+    "entraTenantId": "Ashburton Trading Society"
+  },
+  {
+    "tenantDescription": "05da94f9-1474-4e61-a903-b96eedfc6de9",
+    "entraTenantId": "BANKS PENINSULA CONSERVATION TRUST"
+  },
+  {
+    "tenantDescription": "a6f40189-8d19-4c03-9fb2-307a3ff7818a",
+    "entraTenantId": "Balle Bros Group"
+  },
+  {
+    "tenantDescription": "1bbea0ba-4f8b-44a5-859d-7c7829253432",
+    "entraTenantId": "Beattie Matheson"
+  },
+  {
+    "tenantDescription": "86a17c59-53f0-4879-ae2a-81a4457ca402",
+    "entraTenantId": "Beef + Lamb New Zealand"
+  },
+  {
+    "tenantDescription": "e5982410-a87c-4de2-966a-57de40702c63",
+    "entraTenantId": "BestStart Educare"
+  },
+  {
+    "tenantDescription": "b1cbfc46-fbe5-4253-94e6-4735b7e7a831",
+    "entraTenantId": "Betacraft"
+  },
+  {
+    "tenantDescription": "1cdbb532-b59c-4793-b4c9-8a5776660a4f",
+    "entraTenantId": "BlueRock"
+  },
+  {
+    "tenantDescription": "838d99cd-2a0c-4ad0-b51d-776b5ffd4125",
+    "entraTenantId": "Bode"
+  },
+  {
+    "tenantDescription": "0ece92f5-1c2f-4542-aabc-a64bb9380783",
+    "entraTenantId": "CIO Studio"
+  },
+  {
+    "tenantDescription": "ffc7172b-4f7f-49fa-bcd9-64c91404c227",
+    "entraTenantId": "CPB HEB Joint Venture"
+  },
+  {
+    "tenantDescription": "e362a2d5-0901-4149-b259-86b376d284f0",
+    "entraTenantId": "Cairns Slane"
+  },
+  {
+    "tenantDescription": "2068feb1-28c9-4ed6-9054-021d074c39fd",
+    "entraTenantId": "Carers New Zealand"
+  },
+  {
+    "tenantDescription": "2aef5a20-e248-4b54-82c8-41c7933c545c",
+    "entraTenantId": "Catch Commercial"
+  },
+  {
+    "tenantDescription": "b9ea47c5-85ed-40bd-92e6-a023f63cb0dd",
+    "entraTenantId": "Clutha District Council"
+  },
+  {
+    "tenantDescription": "bfefa1f0-74b5-4203-a353-ae090526b78a",
+    "entraTenantId": "Comvita"
+  },
+  {
+    "tenantDescription": "83a5ad22-c023-4090-91c5-2e39df3a6d9d",
+    "entraTenantId": "Consilium"
+  },
+  {
+    "tenantDescription": "bfb189c2-f0ed-46a5-909d-f9e493daf66d",
+    "entraTenantId": "Counties Power LTD"
+  },
+  {
+    "tenantDescription": "9a14a49b-946e-4eda-88f6-8aecc1c64d6b",
+    "entraTenantId": "Dempsey Wood Civil"
+  },
+  {
+    "tenantDescription": "57d56490-cfab-451d-9c6c-b9b854389e2f",
+    "entraTenantId": "Discern Information Systems Limited"
+  },
+  {
+    "tenantDescription": "3a065820-e58c-448b-88a6-bfa951a9d354",
+    "entraTenantId": "ECLY Ltd"
+  },
+  {
+    "tenantDescription": "d0f1217a-9191-4205-935d-7852750d15fa",
+    "entraTenantId": "Earthwise Group ltd"
+  },
+  {
+    "tenantDescription": "5d3d23a8-a6a0-489e-85e0-1967058bbd51",
+    "entraTenantId": "EcoNet Charitable Trust Board"
+  },
+  {
+    "tenantDescription": "961a9ce6-4d38-452f-9d9d-26942599bbe0",
+    "entraTenantId": "Emerge Aotearoa"
+  },
+  {
+    "tenantDescription": "4824163e-13df-44b4-8b34-58a3b19195e4",
+    "entraTenantId": "Employers and Manufacturers Association"
+  },
+  {
+    "tenantDescription": "54000819-667a-45fe-b9e7-951046795680",
+    "entraTenantId": "Enable Networks Limited"
+  },
+  {
+    "tenantDescription": "2b1242ed-3c13-48ca-88f1-08c29aecdd1b",
+    "entraTenantId": "EnerPro Feeds Ltd"
+  },
+  {
+    "tenantDescription": "95e69c45-f670-446e-ad44-4de5bcbca49e",
+    "entraTenantId": "Evnex"
+  },
+  {
+    "tenantDescription": "347d7dcd-1066-47f3-9cc4-31dbeb0f00ec",
+    "entraTenantId": "FR"
+  },
+  {
+    "tenantDescription": "2910baa6-9539-4b22-9299-a6c6f519c132",
+    "entraTenantId": "Facteon"
+  },
+  {
+    "tenantDescription": "86af3b2f-69d8-40c6-afa6-1ac00aa4f0a0",
+    "entraTenantId": "FairWay Resolution Limited"
+  },
+  {
+    "tenantDescription": "6af225e5-22d9-413f-853e-32bf1ae775c3",
+    "entraTenantId": "Farrah's"
+  },
+  {
+    "tenantDescription": "9034c6bc-4c08-4727-b3e7-ec2b28440742",
+    "entraTenantId": "Fidelity Life Assurance Company Limited"
+  },
+  {
+    "tenantDescription": "d81973fc-1938-4f51-bb68-56bf4e3aef4f",
+    "entraTenantId": "Finora Management Services"
+  },
+  {
+    "tenantDescription": "f877a12f-8994-43f9-a226-fb6fca69ec1c",
+    "entraTenantId": "Formstress Precast Ltd"
+  },
+  {
+    "tenantDescription": "130bd1c2-a77e-48c1-ae61-a12eec386e10",
+    "entraTenantId": "Furnware"
+  },
+  {
+    "tenantDescription": "130c6c30-4758-49b3-b041-58627d876ab3",
+    "entraTenantId": "Hamana PoC"
+  },
+  {
+    "tenantDescription": "329f8d7a-90d7-423c-82f6-11469787faf5",
+    "entraTenantId": "Harvex"
+  },
+  {
+    "tenantDescription": "a1d850f3-c32d-48c6-a2ad-c9784f0b02bd",
+    "entraTenantId": "Hawk Group Limited"
+  },
+  {
+    "tenantDescription": "e64c65e4-92c1-4cf8-ad4d-58e23424987f",
+    "entraTenantId": "Hawkins Watts Limited"
+  },
+  {
+    "tenantDescription": "a72e3c56-2e6e-4ce8-b4e9-7778d6b7545f",
+    "entraTenantId": "Health Promotion Agency"
+  },
+  {
+    "tenantDescription": "20851201-f743-434e-a78d-9797aee71374",
+    "entraTenantId": "Henry Schein One"
+  },
+  {
+    "tenantDescription": "13205939-ac71-423d-87ff-6d2790777673",
+    "entraTenantId": "Heritage Hotel Management Limited"
+  },
+  {
+    "tenantDescription": "374f9091-8d09-49ba-b74b-0739086f2bd9",
+    "entraTenantId": "Hilton Haulage Ltd Partnership"
+  },
+  {
+    "tenantDescription": "01e8af52-5cf9-4a6c-8aad-30257a7259eb",
+    "entraTenantId": "Hirepool"
+  },
+  {
+    "tenantDescription": "0180a421-da60-43b8-8ca5-7c1601b982bf",
+    "entraTenantId": "Human Rights Commission"
+  },
+  {
+    "tenantDescription": "9a5dafb5-b54d-4391-ac1a-9bec794fb515",
+    "entraTenantId": "Hustler Equipment Ltd"
+  },
+  {
+    "tenantDescription": "43ffe810-a230-411f-b86d-f60d467dc46c",
+    "entraTenantId": "INFERNO CONSULTANTS LIMITED"
+  },
+  {
+    "tenantDescription": "4c0b5d5f-e8b1-48a4-ab8b-3899a809a69a",
+    "entraTenantId": "ITM"
+  },
+  {
+    "tenantDescription": "54d8bb41-6ccc-4068-8b62-7f9be2e4aca0",
+    "entraTenantId": "IUR Theta Systems Limited"
+  },
+  {
+    "tenantDescription": "1ee583c3-4e81-461a-93da-238ae87c2521",
+    "entraTenantId": "Integrated Maintenance Group"
+  },
+  {
+    "tenantDescription": "fa3bf564-b1c3-4f13-84d8-cc0668d53fab",
+    "entraTenantId": "Integrated Maintenance Group"
+  },
+  {
+    "tenantDescription": "dd4a9dae-6c5e-4201-937e-26927eff1a48",
+    "entraTenantId": "Intracare"
+  },
+  {
+    "tenantDescription": "f27e5392-9f85-4720-8e0a-be6bd69c88e3",
+    "entraTenantId": "J Swap Contractors Ltd"
+  },
+  {
+    "tenantDescription": "452c3516-91c1-442f-88d0-47320644db60",
+    "entraTenantId": "Mainfreight"
+  },
+  {
+    "tenantDescription": "46a51f20-67af-4878-aa85-4ea26dae22cd",
+    "entraTenantId": "Manage My Health Limited"
+  },
+  {
+    "tenantDescription": "e0451bae-b9ca-487b-a7d7-19868e10a11b",
+    "entraTenantId": "Marisco Vineyards"
+  },
+  {
+    "tenantDescription": "f237e3c9-7399-4990-a809-79a816a86e8e",
+    "entraTenantId": "Markwell Foods NZ"
+  },
+  {
+    "tenantDescription": "92f0ebda-c7b7-48c7-8c9c-ebb52bc64630",
+    "entraTenantId": "Medical Assurance Society"
+  },
+  {
+    "tenantDescription": "8a024e99-aba3-4b25-b875-28b0c0ca6096",
+    "entraTenantId": "Medtech Limited"
+  },
+  {
+    "tenantDescription": "e1686de9-28dd-49ab-9600-763497474b92",
+    "entraTenantId": "Methodist Mission Northern"
+  },
+  {
+    "tenantDescription": "707e1ff6-2f60-4157-8906-5cfc96bb63f7",
+    "entraTenantId": "Miraka"
+  },
+  {
+    "tenantDescription": "c51bbc4f-d78d-4ae1-95b1-fbd572faff32",
+    "entraTenantId": "MitoQ"
+  },
+  {
+    "tenantDescription": "5e1ac8b7-1a14-4a1c-bf7f-80bcd2b428d9",
+    "entraTenantId": "Motor Trade Association"
+  },
+  {
+    "tenantDescription": "d71197d6-48d4-4716-bf87-a95ff63f5ac5",
+    "entraTenantId": "NEWTON ROSS Limited"
+  },
+  {
+    "tenantDescription": "0293d571-48d7-4863-9a9a-223d9ce5c388",
+    "entraTenantId": "National Bank of Samoa"
+  },
+  {
+    "tenantDescription": "cfa3c3d9-3854-4095-903a-b12788a18b71",
+    "entraTenantId": "New Zealand Blood Service"
+  },
+  {
+    "tenantDescription": "122713d7-cdcd-43ae-955b-6f659defdc90",
+    "entraTenantId": "New Zealand Bloodstock"
+  },
+  {
+    "tenantDescription": "3f661210-a287-4bcd-a944-e1c9645be725",
+    "entraTenantId": "New Zealand King Salmon"
+  },
+  {
+    "tenantDescription": "c32e076e-8152-459d-867a-aafb23d77abc",
+    "entraTenantId": "New Zealand King Salmon"
+  },
+  {
+    "tenantDescription": "ae9808f0-e77a-4d1d-a185-7a71575071f6",
+    "entraTenantId": "New Zealand Ministry of Foreign Affairs & Trade"
+  },
+  {
+    "tenantDescription": "0bbd34cb-91a8-4b8e-a483-034a155ff47b",
+    "entraTenantId": "New Zealand Rugby"
+  },
+  {
+    "tenantDescription": "7c666ff8-7f45-4c41-8522-62e3a765c545",
+    "entraTenantId": "Nugreen"
+  },
+  {
+    "tenantDescription": "6a89462c-e86c-4926-87f8-c544d1c33183",
+    "entraTenantId": "Open Country Dairy"
+  },
+  {
+    "tenantDescription": "712d71e3-5f9c-4f7f-83ed-2c0999d36997",
+    "entraTenantId": "Otautahi Community Housing Trust"
+  },
+  {
+    "tenantDescription": "76b44248-1616-46f4-af8c-16eb5ca3c93c",
+    "entraTenantId": "PAUA Early Childhood Home Based Care Service"
+  },
+  {
+    "tenantDescription": "17e9efab-4e02-45e9-ae54-491c41d3412e",
+    "entraTenantId": "PEP Worldwide NZ"
+  },
+  {
+    "tenantDescription": "e402afc3-b00f-4e12-a4d4-7bf66b5e4119",
+    "entraTenantId": "PFP Ltd"
+  },
+  {
+    "tenantDescription": "d9030b33-9bcc-44fd-92ba-04e977709857",
+    "entraTenantId": "Pacific Cooperation Foundation"
+  },
+  {
+    "tenantDescription": "5ccca697-ef32-4eb4-ad6f-7b8081c36ad1",
+    "entraTenantId": "Parininihi Ki Waitotara Incorporation"
+  },
+  {
+    "tenantDescription": "96410bb2-37b5-495a-a169-c47e03e73007",
+    "entraTenantId": "Parrs Products"
+  },
+  {
+    "tenantDescription": "0a8f5fe1-0b0d-4949-93e4-1e806c94d153",
+    "entraTenantId": "Perry Group"
+  },
+  {
+    "tenantDescription": "9700933a-1533-4973-a827-2f8cfdcaadaf",
+    "entraTenantId": "Piritahi"
+  },
+  {
+    "tenantDescription": "Gasfitters and Drainlayers Board",
+    "entraTenantId": "Plumbers"
+  },
+  {
+    "tenantDescription": "c4ddc036-b57b-4720-a669-757940954bf9",
+    "entraTenantId": "Port Taranaki"
+  },
+  {
+    "tenantDescription": "60bce2b1-c2ab-42cd-8155-849f783d1dbe",
+    "entraTenantId": "PortConnect"
+  },
+  {
+    "tenantDescription": "170b3395-f819-4f84-80b7-c529900d784b",
+    "entraTenantId": "PowerNet Ltd"
+  },
+  {
+    "tenantDescription": "bbc3b1cc-68b5-48c2-b5fe-c3e8aa1ea5f8",
+    "entraTenantId": "Prepack Limited"
+  },
+  {
+    "tenantDescription": "cd2a8153-be65-4228-a259-31e4b61d12c5",
+    "entraTenantId": "RD PETROLEUM LTD"
+  },
+  {
+    "tenantDescription": "4400e9d4-9063-46ba-9934-840ff4cbf388",
+    "entraTenantId": "RealNZ"
+  },
+  {
+    "tenantDescription": "c35e3186-0170-4f9c-9671-92cd541702ab",
+    "entraTenantId": "Resero"
+  },
+  {
+    "tenantDescription": "6d8c062c-6bdc-4fb9-87dc-08aea00c443f",
+    "entraTenantId": "Resero Global"
+  },
+  {
+    "tenantDescription": "44b89919-152b-43d4-8ef5-3b9e38baf6fc",
+    "entraTenantId": "SP Investment Group Limited"
+  },
+  {
+    "tenantDescription": "559ebbc4-f890-4333-b2b5-309c77650b92",
+    "entraTenantId": "Site Safe New Zealand - Corp"
+  },
+  {
+    "tenantDescription": "c0bea908-0b62-4fc8-88a3-747017384cdc",
+    "entraTenantId": "Site Safe New Zealand Inc"
+  },
+  {
+    "tenantDescription": "2c47dbc1-6077-4eea-8f6d-a40258a8dc12",
+    "entraTenantId": "Skin Institute"
+  },
+  {
+    "tenantDescription": "37e1cace-7d20-4966-b4d8-5a1e59e29d03",
+    "entraTenantId": "Springbrook"
+  },
+  {
+    "tenantDescription": "58b0862d-bab3-4332-9b8d-dbb72e849d4f",
+    "entraTenantId": "Stresscrete"
+  },
+  {
+    "tenantDescription": "0051ec7f-c4f5-41e6-b397-24b855b2a57e",
+    "entraTenantId": "TAS"
+  },
+  {
+    "tenantDescription": "75c87bf0-6130-4555-b9fa-e4cf3539f058",
+    "entraTenantId": "Taumata Arowai"
+  },
+  {
+    "tenantDescription": "09f38e06-ce65-49d5-be0d-cdc896aab6dc",
+    "entraTenantId": "Te Pūkenga - EarnLearn"
+  },
+  {
+    "tenantDescription": "a7b3ef24-34ea-4282-b650-2d6826266c1d",
+    "entraTenantId": "Te Pūkenga - EarnLearn"
+  },
+  {
+    "tenantDescription": "8e35f753-b295-41fb-85ae-b9141c91d155",
+    "entraTenantId": "Te Rūnanga o Ngāi Tahu"
+  },
+  {
+    "tenantDescription": "a3769c26-1242-4fbd-b4a1-5b2df157e423",
+    "entraTenantId": "Team Alchemy Consulting Ltd"
+  },
+  {
+    "tenantDescription": "9ab59b47-ca50-4950-b82a-c2d18cd78bf0",
+    "entraTenantId": "The Lines Company"
+  },
+  {
+    "tenantDescription": "e807b3ff-7bfe-4e3b-8186-1e692c00ff01",
+    "entraTenantId": "The Video Shop Ltd"
+  },
+  {
+    "tenantDescription": "d5196835-42dd-4763-b5b8-96e424f2df95",
+    "entraTenantId": "Tumblar Products Ltd"
+  },
+  {
+    "tenantDescription": "0eea7c41-a9ee-4410-9c1e-e61709d4b800",
+    "entraTenantId": "Utilities Disputes"
+  },
+  {
+    "tenantDescription": "f797fc7f-6de0-4fef-bc5b-8f78271a473b",
+    "entraTenantId": "Variety - the Children's Charity"
+  },
+  {
+    "tenantDescription": "4d1cad97-0a73-4067-9a4b-ce3e7107263f",
+    "entraTenantId": "Wareing Group Ltd"
+  },
+  {
+    "tenantDescription": "fbc08ccc-2a97-4737-8c0f-7cb688ac5ce3",
+    "entraTenantId": "Weightrax"
+  },
+  {
+    "tenantDescription": "f43ee2bf-654a-49a4-a26d-41b7c49972dd",
+    "entraTenantId": "Wellington International Airport Ltd"
+  },
+  {
+    "tenantDescription": "6c2361c9-f888-4ec1-b345-ab0efb7072ae",
+    "entraTenantId": "XE New Zealand"
+  },
+  {
+    "tenantDescription": "dbdbe366-e40f-44dd-b042-0ffa2df3eb43",
+    "entraTenantId": "Yellow Pages New Zealand"
+  },
+  {
+    "tenantDescription": "90361f54-d3da-4ed9-b18e-afec2e4a78e1",
+    "entraTenantId": "chemfreight.co.nz"
+  },
+  {
+    "tenantDescription": "02eec3bd-f10c-48dc-ac23-322e65c5ba0c",
+    "entraTenantId": "iPayroll Ltd."
+  },
+  {
+    "tenantDescription": "8275b063-1eff-429c-b344-4859c8879a50",
+    "entraTenantId": "lnzltd"
+  }
 ]
