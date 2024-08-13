@@ -2,745 +2,837 @@
   {
     "entraTenantId": "adadea83-29c0-43e7-964d-08f488bf01df",
     "tenantDescription": "A Test Account",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/adadea83-29c0-43e7-964d-08f488bf01df",
-    "adminPortal": "https://businesscentral.dynamics.com/adadea83-29c0-43e7-964d-08f488bf01df/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/adadea83-29c0-43e7-964d-08f488bf01df/admin",
+    "area": ""
   },
   {
     "entraTenantId": "816f91f5-a316-4843-94b3-a154eb534efe",
     "tenantDescription": "AB International Limited",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/6ba4d131-a34f-4049-bf5a-e5342f46fdfd",
-    "adminPortal": "https://businesscentral.dynamics.com/816f91f5-a316-4843-94b3-a154eb534efe/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/816f91f5-a316-4843-94b3-a154eb534efe/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "d14fac78-01b1-4fe1-a481-b294cb602731",
     "tenantDescription": "ABI Rehabilitation",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/b46ca925-2c73-4887-8c09-6f1488bbe85c",
-    "adminPortal": "https://businesscentral.dynamics.com/d14fac78-01b1-4fe1-a481-b294cb602731/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/d14fac78-01b1-4fe1-a481-b294cb602731/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "eb0ed8fd-ca27-4938-9152-532e1c06df62",
     "tenantDescription": "Accuro Health Insurance",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/2a0edd20-7b5e-4f7e-af9c-a1d7850ec82b",
-    "adminPortal": "https://businesscentral.dynamics.com/eb0ed8fd-ca27-4938-9152-532e1c06df62/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/eb0ed8fd-ca27-4938-9152-532e1c06df62/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "2bda6cf0-a980-43e7-831c-1d529adb3673",
     "tenantDescription": "Alvarium NZ",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/3de621e5-738d-41a1-a987-7d8d57675e83",
-    "adminPortal": "https://businesscentral.dynamics.com/2bda6cf0-a980-43e7-831c-1d529adb3673/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/2bda6cf0-a980-43e7-831c-1d529adb3673/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "1bfa9730-eb2d-4a75-bf21-c263449ddb94",
     "tenantDescription": "Aqualine Trading Limited",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/09b1d328-7cfd-4c0e-87f0-7ccf0a625612",
-    "adminPortal": "https://businesscentral.dynamics.com/1bfa9730-eb2d-4a75-bf21-c263449ddb94/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/1bfa9730-eb2d-4a75-bf21-c263449ddb94/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "95d38564-1f4c-4f1b-baa7-2d3135a1697a",
     "tenantDescription": "Argus Fire Systems Service Ltd",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/be15b74e-71ce-4cc9-ad3a-bdbab582f6ee",
-    "adminPortal": "https://businesscentral.dynamics.com/95d38564-1f4c-4f1b-baa7-2d3135a1697a/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/95d38564-1f4c-4f1b-baa7-2d3135a1697a/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "64939eaf-d7f1-41f3-8bc0-1ed17a5d866d",
     "tenantDescription": "Ashburton Trading Society",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/64939eaf-d7f1-41f3-8bc0-1ed17a5d866d",
-    "adminPortal": "https://businesscentral.dynamics.com/64939eaf-d7f1-41f3-8bc0-1ed17a5d866d/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/64939eaf-d7f1-41f3-8bc0-1ed17a5d866d/admin",
+    "area": ""
   },
   {
     "entraTenantId": "05da94f9-1474-4e61-a903-b96eedfc6de9",
     "tenantDescription": "BANKS PENINSULA CONSERVATION TRUST",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/05da94f9-1474-4e61-a903-b96eedfc6de9",
-    "adminPortal": "https://businesscentral.dynamics.com/05da94f9-1474-4e61-a903-b96eedfc6de9/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/05da94f9-1474-4e61-a903-b96eedfc6de9/admin",
+    "area": ""
   },
   {
     "entraTenantId": "a6f40189-8d19-4c03-9fb2-307a3ff7818a",
     "tenantDescription": "Balle Bros Group",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/764d205f-2937-47cc-b02e-f64ba64e15cc",
-    "adminPortal": "https://businesscentral.dynamics.com/a6f40189-8d19-4c03-9fb2-307a3ff7818a/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/a6f40189-8d19-4c03-9fb2-307a3ff7818a/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "1bbea0ba-4f8b-44a5-859d-7c7829253432",
     "tenantDescription": "Beattie Matheson",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/1bbea0ba-4f8b-44a5-859d-7c7829253432",
-    "adminPortal": "https://businesscentral.dynamics.com/1bbea0ba-4f8b-44a5-859d-7c7829253432/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/1bbea0ba-4f8b-44a5-859d-7c7829253432/admin",
+    "area": ""
   },
   {
     "entraTenantId": "86a17c59-53f0-4879-ae2a-81a4457ca402",
     "tenantDescription": "Beef + Lamb New Zealand",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/106117ad-1f00-4b94-b977-fc1d66b487fc",
-    "adminPortal": "https://businesscentral.dynamics.com/86a17c59-53f0-4879-ae2a-81a4457ca402/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/86a17c59-53f0-4879-ae2a-81a4457ca402/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "e5982410-a87c-4de2-966a-57de40702c63",
     "tenantDescription": "BestStart Educare",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/e5982410-a87c-4de2-966a-57de40702c63",
-    "adminPortal": "https://businesscentral.dynamics.com/e5982410-a87c-4de2-966a-57de40702c63/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/e5982410-a87c-4de2-966a-57de40702c63/admin",
+    "area": ""
   },
   {
     "entraTenantId": "b1cbfc46-fbe5-4253-94e6-4735b7e7a831",
     "tenantDescription": "Betacraft",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/3f8c2c42-dd3e-41ac-97ef-7b742d77df16",
-    "adminPortal": "https://businesscentral.dynamics.com/b1cbfc46-fbe5-4253-94e6-4735b7e7a831/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/b1cbfc46-fbe5-4253-94e6-4735b7e7a831/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "1cdbb532-b59c-4793-b4c9-8a5776660a4f",
     "tenantDescription": "BlueRock",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/1cdbb532-b59c-4793-b4c9-8a5776660a4f",
-    "adminPortal": "https://businesscentral.dynamics.com/1cdbb532-b59c-4793-b4c9-8a5776660a4f/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/1cdbb532-b59c-4793-b4c9-8a5776660a4f/admin",
+    "area":""
   },
   {
     "entraTenantId": "838d99cd-2a0c-4ad0-b51d-776b5ffd4125",
     "tenantDescription": "Bode",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/642025f4-d722-46b2-a706-1c97d756a3fa",
-    "adminPortal": "https://businesscentral.dynamics.com/838d99cd-2a0c-4ad0-b51d-776b5ffd4125/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/838d99cd-2a0c-4ad0-b51d-776b5ffd4125/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "0ece92f5-1c2f-4542-aabc-a64bb9380783",
     "tenantDescription": "CIO Studio",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/0ece92f5-1c2f-4542-aabc-a64bb9380783",
-    "adminPortal": "https://businesscentral.dynamics.com/0ece92f5-1c2f-4542-aabc-a64bb9380783/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/0ece92f5-1c2f-4542-aabc-a64bb9380783/admin",
+    "area": ""
+
   },
   {
     "entraTenantId": "ffc7172b-4f7f-49fa-bcd9-64c91404c227",
     "tenantDescription": "CPB HEB Joint Venture",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/ffc7172b-4f7f-49fa-bcd9-64c91404c227",
-    "adminPortal": "https://businesscentral.dynamics.com/ffc7172b-4f7f-49fa-bcd9-64c91404c227/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/ffc7172b-4f7f-49fa-bcd9-64c91404c227/admin",
+    "area": ""
   },
   {
     "entraTenantId": "e362a2d5-0901-4149-b259-86b376d284f0",
     "tenantDescription": "Cairns Slane",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/b6920feb-3400-467d-b5e7-708aff7d682f",
-    "adminPortal": "https://businesscentral.dynamics.com/e362a2d5-0901-4149-b259-86b376d284f0/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/e362a2d5-0901-4149-b259-86b376d284f0/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "2068feb1-28c9-4ed6-9054-021d074c39fd",
     "tenantDescription": "Carers New Zealand",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/fc577167-2ee8-4373-a0fb-7b42627c1717",
-    "adminPortal": "https://businesscentral.dynamics.com/2068feb1-28c9-4ed6-9054-021d074c39fd/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/2068feb1-28c9-4ed6-9054-021d074c39fd/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "2aef5a20-e248-4b54-82c8-41c7933c545c",
     "tenantDescription": "Catch Commercial",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/3920fda9-e71a-4f43-8274-c8c8e1acd59b",
-    "adminPortal": "https://businesscentral.dynamics.com/2aef5a20-e248-4b54-82c8-41c7933c545c/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/2aef5a20-e248-4b54-82c8-41c7933c545c/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "b9ea47c5-85ed-40bd-92e6-a023f63cb0dd",
     "tenantDescription": "Clutha District Council",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/2a11d741-369f-4fd7-8617-7eeb630bc2a6",
-    "adminPortal": "https://businesscentral.dynamics.com/b9ea47c5-85ed-40bd-92e6-a023f63cb0dd/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/b9ea47c5-85ed-40bd-92e6-a023f63cb0dd/admin",
+    "area": "CHC"
   },
   {
     "entraTenantId": "bfefa1f0-74b5-4203-a353-ae090526b78a",
     "tenantDescription": "Comvita",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/7f561a79-3097-4858-a484-27f46ceb7239",
-    "adminPortal": "https://businesscentral.dynamics.com/bfefa1f0-74b5-4203-a353-ae090526b78a/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/bfefa1f0-74b5-4203-a353-ae090526b78a/admin",
+    "area": ""
   },
   {
     "entraTenantId": "83a5ad22-c023-4090-91c5-2e39df3a6d9d",
     "tenantDescription": "Consilium",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/b0a01181-345b-4f99-9e22-aaa4aad309c2",
-    "adminPortal": "https://businesscentral.dynamics.com/83a5ad22-c023-4090-91c5-2e39df3a6d9d/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/83a5ad22-c023-4090-91c5-2e39df3a6d9d/admin",
+    "area": "CHC"
   },
   {
     "entraTenantId": "bfb189c2-f0ed-46a5-909d-f9e493daf66d",
     "tenantDescription": "Counties Power LTD",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/bfb189c2-f0ed-46a5-909d-f9e493daf66d",
-    "adminPortal": "https://businesscentral.dynamics.com/bfb189c2-f0ed-46a5-909d-f9e493daf66d/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/bfb189c2-f0ed-46a5-909d-f9e493daf66d/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "9a14a49b-946e-4eda-88f6-8aecc1c64d6b",
     "tenantDescription": "Dempsey Wood Civil",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/a6d2edd9-4ddd-400b-9012-3c19824bdfaa",
-    "adminPortal": "https://businesscentral.dynamics.com/9a14a49b-946e-4eda-88f6-8aecc1c64d6b/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/9a14a49b-946e-4eda-88f6-8aecc1c64d6b/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "57d56490-cfab-451d-9c6c-b9b854389e2f",
     "tenantDescription": "Discern Information Systems Limited",
     "accessId": "",
-    "adminPortal": "https://businesscentral.dynamics.com/57d56490-cfab-451d-9c6c-b9b854389e2f/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/57d56490-cfab-451d-9c6c-b9b854389e2f/admin",
+    "area": ""
   },
   {
     "entraTenantId": "3a065820-e58c-448b-88a6-bfa951a9d354",
     "tenantDescription": "ECLY Ltd",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/9df24a49-2b93-4dad-8bff-87f9ec86515e",
-    "adminPortal": "https://businesscentral.dynamics.com/3a065820-e58c-448b-88a6-bfa951a9d354/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/3a065820-e58c-448b-88a6-bfa951a9d354/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "d0f1217a-9191-4205-935d-7852750d15fa",
     "tenantDescription": "Earthwise Group ltd",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/5dd565d0-92ac-43fe-a01b-c8cac7e64f7e",
-    "adminPortal": "https://businesscentral.dynamics.com/d0f1217a-9191-4205-935d-7852750d15fa/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/d0f1217a-9191-4205-935d-7852750d15fa/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "5d3d23a8-a6a0-489e-85e0-1967058bbd51",
     "tenantDescription": "EcoNet Charitable Trust Board",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/35871a85-3115-4e06-822a-ff943bb13c73",
-    "adminPortal": "https://businesscentral.dynamics.com/5d3d23a8-a6a0-489e-85e0-1967058bbd51/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/5d3d23a8-a6a0-489e-85e0-1967058bbd51/admin",
+    "area": "AKL"
+
   },
   {
     "entraTenantId": "961a9ce6-4d38-452f-9d9d-26942599bbe0",
     "tenantDescription": "Emerge Aotearoa",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/8e944b3a-f714-4643-aa9d-c7a439ca4d42",
-    "adminPortal": "https://businesscentral.dynamics.com/961a9ce6-4d38-452f-9d9d-26942599bbe0/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/961a9ce6-4d38-452f-9d9d-26942599bbe0/admin",
+    "area": "CHC"
   },
   {
     "entraTenantId": "4824163e-13df-44b4-8b34-58a3b19195e4",
     "tenantDescription": "Employers and Manufacturers Association",
     "accessId": "",
-    "adminPortal": "https://businesscentral.dynamics.com/4824163e-13df-44b4-8b34-58a3b19195e4/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/4824163e-13df-44b4-8b34-58a3b19195e4/admin",
+    "area": ""
   },
   {
     "entraTenantId": "54000819-667a-45fe-b9e7-951046795680",
     "tenantDescription": "Enable Networks Limited",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/51b59971-7654-4bab-a064-83132f9755f9",
-    "adminPortal": "https://businesscentral.dynamics.com/54000819-667a-45fe-b9e7-951046795680/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/54000819-667a-45fe-b9e7-951046795680/admin",
+    "area": "CHC"
   },
   {
     "entraTenantId": "2b1242ed-3c13-48ca-88f1-08c29aecdd1b",
     "tenantDescription": "EnerPro Feeds Ltd",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/d365ef06-8b33-4195-ab74-3ee4c101230d",
-    "adminPortal": "https://businesscentral.dynamics.com/2b1242ed-3c13-48ca-88f1-08c29aecdd1b/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/2b1242ed-3c13-48ca-88f1-08c29aecdd1b/admin",
+    "area": "CHC"
   },
   {
     "entraTenantId": "95e69c45-f670-446e-ad44-4de5bcbca49e",
     "tenantDescription": "Evnex",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/09a96944-b00f-4836-b766-91e7dc224507",
-    "adminPortal": "https://businesscentral.dynamics.com/95e69c45-f670-446e-ad44-4de5bcbca49e/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/95e69c45-f670-446e-ad44-4de5bcbca49e/admin",
+    "area": "CHC"
   },
   {
     "entraTenantId": "347d7dcd-1066-47f3-9cc4-31dbeb0f00ec",
     "tenantDescription": "FR",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/347d7dcd-1066-47f3-9cc4-31dbeb0f00ec",
-    "adminPortal": "https://businesscentral.dynamics.com/347d7dcd-1066-47f3-9cc4-31dbeb0f00ec/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/347d7dcd-1066-47f3-9cc4-31dbeb0f00ec/admin",
+    "area": ""
   },
   {
     "entraTenantId": "2910baa6-9539-4b22-9299-a6c6f519c132",
     "tenantDescription": "Facteon",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/85dd99ed-7643-4674-a1c2-09f92f90db8e",
-    "adminPortal": "https://businesscentral.dynamics.com/2910baa6-9539-4b22-9299-a6c6f519c132/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/2910baa6-9539-4b22-9299-a6c6f519c132/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "86af3b2f-69d8-40c6-afa6-1ac00aa4f0a0",
     "tenantDescription": "FairWay Resolution Limited",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/abf560d6-0cf6-4176-95af-2e4a8c6ee84d",
-    "adminPortal": "https://businesscentral.dynamics.com/86af3b2f-69d8-40c6-afa6-1ac00aa4f0a0/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/86af3b2f-69d8-40c6-afa6-1ac00aa4f0a0/admin",
+    "area": "CHC"
   },
   {
     "entraTenantId": "6af225e5-22d9-413f-853e-32bf1ae775c3",
     "tenantDescription": "Farrah's",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/e955d128-f9df-48f9-9c0e-22bada4bfd8d",
-    "adminPortal": "https://businesscentral.dynamics.com/6af225e5-22d9-413f-853e-32bf1ae775c3/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/6af225e5-22d9-413f-853e-32bf1ae775c3/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "9034c6bc-4c08-4727-b3e7-ec2b28440742",
     "tenantDescription": "Fidelity Life Assurance Company Limited",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/6b8b9fe2-07a4-4594-badb-88fa1c896bd3",
-    "adminPortal": "https://businesscentral.dynamics.com/9034c6bc-4c08-4727-b3e7-ec2b28440742/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/9034c6bc-4c08-4727-b3e7-ec2b28440742/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "d81973fc-1938-4f51-bb68-56bf4e3aef4f",
     "tenantDescription": "Finora Management Services",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/d81973fc-1938-4f51-bb68-56bf4e3aef4f",
-    "adminPortal": "https://businesscentral.dynamics.com/d81973fc-1938-4f51-bb68-56bf4e3aef4f/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/d81973fc-1938-4f51-bb68-56bf4e3aef4f/admin",
+    "area": ""
   },
   {
     "entraTenantId": "f877a12f-8994-43f9-a226-fb6fca69ec1c",
     "tenantDescription": "Formstress Precast Ltd",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/f877a12f-8994-43f9-a226-fb6fca69ec1c",
-    "adminPortal": "https://businesscentral.dynamics.com/f877a12f-8994-43f9-a226-fb6fca69ec1c/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/f877a12f-8994-43f9-a226-fb6fca69ec1c/admin",
+    "area": ""
   },
   {
     "entraTenantId": "130bd1c2-a77e-48c1-ae61-a12eec386e10",
     "tenantDescription": "Furnware",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/130bd1c2-a77e-48c1-ae61-a12eec386e10",
-    "adminPortal": "https://businesscentral.dynamics.com/130bd1c2-a77e-48c1-ae61-a12eec386e10/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/130bd1c2-a77e-48c1-ae61-a12eec386e10/admin",
+    "area": ""
   },
   {
     "entraTenantId": "130c6c30-4758-49b3-b041-58627d876ab3",
     "tenantDescription": "Hamana PoC",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/130c6c30-4758-49b3-b041-58627d876ab3",
-    "adminPortal": "https://businesscentral.dynamics.com/130c6c30-4758-49b3-b041-58627d876ab3/admin"
+    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/9e0a6435-b922-41fa-8d07-d0e4f9ccfefb",
+    "adminPortal": "https://businesscentral.dynamics.com/130c6c30-4758-49b3-b041-58627d876ab3/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "329f8d7a-90d7-423c-82f6-11469787faf5",
     "tenantDescription": "Harvex",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/329f8d7a-90d7-423c-82f6-11469787faf5",
-    "adminPortal": "https://businesscentral.dynamics.com/329f8d7a-90d7-423c-82f6-11469787faf5/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/329f8d7a-90d7-423c-82f6-11469787faf5/admin",
+    "area": ""
   },
   {
     "entraTenantId": "a1d850f3-c32d-48c6-a2ad-c9784f0b02bd",
     "tenantDescription": "Hawk Group Limited",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/742dea4a-97f6-4fa6-9d8d-fff3205b103b",
-    "adminPortal": "https://businesscentral.dynamics.com/a1d850f3-c32d-48c6-a2ad-c9784f0b02bd/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/a1d850f3-c32d-48c6-a2ad-c9784f0b02bd/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "e64c65e4-92c1-4cf8-ad4d-58e23424987f",
     "tenantDescription": "Hawkins Watts Limited",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/51cb706b-ba2b-4874-9879-1cd6337cb173",
-    "adminPortal": "https://businesscentral.dynamics.com/e64c65e4-92c1-4cf8-ad4d-58e23424987f/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/e64c65e4-92c1-4cf8-ad4d-58e23424987f/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "a72e3c56-2e6e-4ce8-b4e9-7778d6b7545f",
     "tenantDescription": "Health Promotion Agency - HPA",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/9b9be1d8-907c-4458-8cfb-80a07f5316ef",
-    "adminPortal": "https://businesscentral.dynamics.com/a72e3c56-2e6e-4ce8-b4e9-7778d6b7545f/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/a72e3c56-2e6e-4ce8-b4e9-7778d6b7545f/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "20851201-f743-434e-a78d-9797aee71374",
     "tenantDescription": "Henry Schein One",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/9e33110f-0499-4ebd-8d82-48e04c0857ac",
-    "adminPortal": "https://businesscentral.dynamics.com/20851201-f743-434e-a78d-9797aee71374/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/20851201-f743-434e-a78d-9797aee71374/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "13205939-ac71-423d-87ff-6d2790777673",
     "tenantDescription": "Heritage Hotel Management Limited",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/be17363d-711a-4b37-b903-ade11f6823aa",
-    "adminPortal": "https://businesscentral.dynamics.com/13205939-ac71-423d-87ff-6d2790777673/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/13205939-ac71-423d-87ff-6d2790777673/admin",
+    "area": "AKL"
+
   },
   {
     "entraTenantId": "374f9091-8d09-49ba-b74b-0739086f2bd9",
     "tenantDescription": "Hilton Haulage Ltd Partnership",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/af46dbd5-7581-480b-aec1-b5c235c397b8",
-    "adminPortal": "https://businesscentral.dynamics.com/374f9091-8d09-49ba-b74b-0739086f2bd9/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/374f9091-8d09-49ba-b74b-0739086f2bd9/admin",
+    "area": "CHC"
   },
   {
     "entraTenantId": "01e8af52-5cf9-4a6c-8aad-30257a7259eb",
     "tenantDescription": "Hirepool",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/6fbccdfa-6e60-43a2-a75e-ee16cf0bb730",
-    "adminPortal": "https://businesscentral.dynamics.com/01e8af52-5cf9-4a6c-8aad-30257a7259eb/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/01e8af52-5cf9-4a6c-8aad-30257a7259eb/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "0180a421-da60-43b8-8ca5-7c1601b982bf",
     "tenantDescription": "Human Rights Commission",
     "accessId": "",
-    "adminPortal": "https://businesscentral.dynamics.com/0180a421-da60-43b8-8ca5-7c1601b982bf/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/0180a421-da60-43b8-8ca5-7c1601b982bf/admin",
+    "area": ""
   },
   {
     "entraTenantId": "9a5dafb5-b54d-4391-ac1a-9bec794fb515",
     "tenantDescription": "Hustler Equipment Ltd",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/f61dfa75-6f99-4ae0-9127-291553820070",
-    "adminPortal": "https://businesscentral.dynamics.com/9a5dafb5-b54d-4391-ac1a-9bec794fb515/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/9a5dafb5-b54d-4391-ac1a-9bec794fb515/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "43ffe810-a230-411f-b86d-f60d467dc46c",
     "tenantDescription": "INFERNO CONSULTANTS LIMITED",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/5d71e480-1b36-4373-87b3-3e2b61fd8e1b",
-    "adminPortal": "https://businesscentral.dynamics.com/43ffe810-a230-411f-b86d-f60d467dc46c/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/43ffe810-a230-411f-b86d-f60d467dc46c/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "4c0b5d5f-e8b1-48a4-ab8b-3899a809a69a",
     "tenantDescription": "ITM",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/09fa15ca-e9ad-4aec-b3c0-4b9fa5578059",
-    "adminPortal": "https://businesscentral.dynamics.com/4c0b5d5f-e8b1-48a4-ab8b-3899a809a69a/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/4c0b5d5f-e8b1-48a4-ab8b-3899a809a69a/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "54d8bb41-6ccc-4068-8b62-7f9be2e4aca0",
     "tenantDescription": "IUR Theta Systems Limited",
     "accessId": "",
-    "adminPortal": "https://businesscentral.dynamics.com/54d8bb41-6ccc-4068-8b62-7f9be2e4aca0/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/54d8bb41-6ccc-4068-8b62-7f9be2e4aca0/admin",
+    "area": ""
   },
   {
     "entraTenantId": "1ee583c3-4e81-461a-93da-238ae87c2521",
     "tenantDescription": "Integrated Maintenance Group",
     "accessId": "",
-    "adminPortal": "https://businesscentral.dynamics.com/1ee583c3-4e81-461a-93da-238ae87c2521/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/1ee583c3-4e81-461a-93da-238ae87c2521/admin",
+    "area": ""
   },
   {
     "entraTenantId": "fa3bf564-b1c3-4f13-84d8-cc0668d53fab",
     "tenantDescription": "Integrated Maintenance Group",
     "accessId": "",
-    "adminPortal": "https://businesscentral.dynamics.com/fa3bf564-b1c3-4f13-84d8-cc0668d53fab/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/fa3bf564-b1c3-4f13-84d8-cc0668d53fab/admin",
+    "area": ""
   },
   {
     "entraTenantId": "dd4a9dae-6c5e-4201-937e-26927eff1a48",
     "tenantDescription": "Intracare",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/23339920-7836-474c-a144-a9551a50c516",
-    "adminPortal": "https://businesscentral.dynamics.com/dd4a9dae-6c5e-4201-937e-26927eff1a48/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/dd4a9dae-6c5e-4201-937e-26927eff1a48/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "f27e5392-9f85-4720-8e0a-be6bd69c88e3",
     "tenantDescription": "J Swap Contractors Ltd",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/73fc8e5d-fdb1-4482-b0d8-b4c82605f7e4",
-    "adminPortal": "https://businesscentral.dynamics.com/f27e5392-9f85-4720-8e0a-be6bd69c88e3/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/f27e5392-9f85-4720-8e0a-be6bd69c88e3/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "452c3516-91c1-442f-88d0-47320644db60",
     "tenantDescription": "Mainfreight",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/aab18b11-8595-45da-b457-099a1632d822",
-    "adminPortal": "https://businesscentral.dynamics.com/452c3516-91c1-442f-88d0-47320644db60/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/452c3516-91c1-442f-88d0-47320644db60/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "46a51f20-67af-4878-aa85-4ea26dae22cd",
     "tenantDescription": "Manage My Health Limited",
     "accessId": "",
-    "adminPortal": "https://businesscentral.dynamics.com/46a51f20-67af-4878-aa85-4ea26dae22cd/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/46a51f20-67af-4878-aa85-4ea26dae22cd/admin",
+    "area": ""
   },
   {
     "entraTenantId": "e0451bae-b9ca-487b-a7d7-19868e10a11b",
     "tenantDescription": "Marisco Vineyards",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/b05f6eff-cefc-4851-8c86-6fea642ea8da",
-    "adminPortal": "https://businesscentral.dynamics.com/e0451bae-b9ca-487b-a7d7-19868e10a11b/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/e0451bae-b9ca-487b-a7d7-19868e10a11b/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "f237e3c9-7399-4990-a809-79a816a86e8e",
     "tenantDescription": "Markwell Foods NZ",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/22cff400-8b48-4455-8429-7435a0383f2b",
-    "adminPortal": "https://businesscentral.dynamics.com/f237e3c9-7399-4990-a809-79a816a86e8e/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/f237e3c9-7399-4990-a809-79a816a86e8e/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "92f0ebda-c7b7-48c7-8c9c-ebb52bc64630",
     "tenantDescription": "Medical Assurance Society",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/8fc7c5be-89fd-4718-ac1b-14f830ff0bd8",
-    "adminPortal": "https://businesscentral.dynamics.com/92f0ebda-c7b7-48c7-8c9c-ebb52bc64630/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/92f0ebda-c7b7-48c7-8c9c-ebb52bc64630/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "8a024e99-aba3-4b25-b875-28b0c0ca6096",
     "tenantDescription": "Medtech Limited",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/ad14a1c1-9764-484c-9946-77992f7077d9",
-    "adminPortal": "https://businesscentral.dynamics.com/8a024e99-aba3-4b25-b875-28b0c0ca6096/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/8a024e99-aba3-4b25-b875-28b0c0ca6096/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "e1686de9-28dd-49ab-9600-763497474b92",
     "tenantDescription": "Methodist Mission Northern",
     "accessId": "",
-    "adminPortal": "https://businesscentral.dynamics.com/e1686de9-28dd-49ab-9600-763497474b92/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/e1686de9-28dd-49ab-9600-763497474b92/admin",
+    "area": ""
   },
   {
     "entraTenantId": "707e1ff6-2f60-4157-8906-5cfc96bb63f7",
     "tenantDescription": "Miraka",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/a9bf71dd-56ac-4b1c-ab18-35c23ac4978f",
-    "adminPortal": "https://businesscentral.dynamics.com/707e1ff6-2f60-4157-8906-5cfc96bb63f7/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/707e1ff6-2f60-4157-8906-5cfc96bb63f7/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "c51bbc4f-d78d-4ae1-95b1-fbd572faff32",
     "tenantDescription": "MitoQ",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/0fdb95cc-97d9-46a3-8ac1-799f15ea8b09",
-    "adminPortal": "https://businesscentral.dynamics.com/c51bbc4f-d78d-4ae1-95b1-fbd572faff32/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/c51bbc4f-d78d-4ae1-95b1-fbd572faff32/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "5e1ac8b7-1a14-4a1c-bf7f-80bcd2b428d9",
     "tenantDescription": "Motor Trade Association - MTA",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/28281af8-781e-4461-854d-30b62fc88a35",
-    "adminPortal": "https://businesscentral.dynamics.com/5e1ac8b7-1a14-4a1c-bf7f-80bcd2b428d9/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/5e1ac8b7-1a14-4a1c-bf7f-80bcd2b428d9/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "d71197d6-48d4-4716-bf87-a95ff63f5ac5",
     "tenantDescription": "NEWTON ROSS Limited",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/9c2229d5-cdd2-47fb-a34e-a2bc49019d8d",
-    "adminPortal": "https://businesscentral.dynamics.com/d71197d6-48d4-4716-bf87-a95ff63f5ac5/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/d71197d6-48d4-4716-bf87-a95ff63f5ac5/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "0293d571-48d7-4863-9a9a-223d9ce5c388",
     "tenantDescription": "National Bank of Samoa",
     "accessId": "",
-    "adminPortal": "https://businesscentral.dynamics.com/0293d571-48d7-4863-9a9a-223d9ce5c388/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/0293d571-48d7-4863-9a9a-223d9ce5c388/admin",
+    "area": ""
   },
   {
     "entraTenantId": "cfa3c3d9-3854-4095-903a-b12788a18b71",
     "tenantDescription": "New Zealand Blood Service",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/0f9e1bf7-1c37-40fc-b48d-164cc1c41b01",
-    "adminPortal": "https://businesscentral.dynamics.com/cfa3c3d9-3854-4095-903a-b12788a18b71/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/cfa3c3d9-3854-4095-903a-b12788a18b71/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "122713d7-cdcd-43ae-955b-6f659defdc90",
     "tenantDescription": "New Zealand Bloodstock",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/e4b20e38-837a-479c-bef9-c2882cd306b0",
-    "adminPortal": "https://businesscentral.dynamics.com/122713d7-cdcd-43ae-955b-6f659defdc90/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/122713d7-cdcd-43ae-955b-6f659defdc90/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "3f661210-a287-4bcd-a944-e1c9645be725",
     "tenantDescription": "New Zealand King Salmon",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/700f78a8-53b3-439e-ad96-01f182888317",
-    "adminPortal": "https://businesscentral.dynamics.com/3f661210-a287-4bcd-a944-e1c9645be725/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/3f661210-a287-4bcd-a944-e1c9645be725/admin",
+    "area":"WLG"
   },
   {
     "entraTenantId": "c32e076e-8152-459d-867a-aafb23d77abc",
     "tenantDescription": "New Zealand King Salmon",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/c32e076e-8152-459d-867a-aafb23d77abc",
-    "adminPortal": "https://businesscentral.dynamics.com/c32e076e-8152-459d-867a-aafb23d77abc/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/c32e076e-8152-459d-867a-aafb23d77abc/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "ae9808f0-e77a-4d1d-a185-7a71575071f6",
     "tenantDescription": "New Zealand Ministry of Foreign Affairs & Trade",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/ae9808f0-e77a-4d1d-a185-7a71575071f6",
-    "adminPortal": "https://businesscentral.dynamics.com/ae9808f0-e77a-4d1d-a185-7a71575071f6/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/ae9808f0-e77a-4d1d-a185-7a71575071f6/admin",
+    "area": ""
   },
   {
     "entraTenantId": "0bbd34cb-91a8-4b8e-a483-034a155ff47b",
     "tenantDescription": "New Zealand Rugby",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/4f15e005-7542-4214-a61c-8017ee0735b7",
-    "adminPortal": "https://businesscentral.dynamics.com/0bbd34cb-91a8-4b8e-a483-034a155ff47b/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/0bbd34cb-91a8-4b8e-a483-034a155ff47b/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "7c666ff8-7f45-4c41-8522-62e3a765c545",
     "tenantDescription": "Nugreen",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/7c666ff8-7f45-4c41-8522-62e3a765c545",
-    "adminPortal": "https://businesscentral.dynamics.com/7c666ff8-7f45-4c41-8522-62e3a765c545/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/7c666ff8-7f45-4c41-8522-62e3a765c545/admin",
+    "area": ""
   },
   {
     "entraTenantId": "6a89462c-e86c-4926-87f8-c544d1c33183",
     "tenantDescription": "Open Country Dairy",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/6a89462c-e86c-4926-87f8-c544d1c33183",
-    "adminPortal": "https://businesscentral.dynamics.com/6a89462c-e86c-4926-87f8-c544d1c33183/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/6a89462c-e86c-4926-87f8-c544d1c33183/admin",
+    "area": ""
   },
   {
     "entraTenantId": "712d71e3-5f9c-4f7f-83ed-2c0999d36997",
     "tenantDescription": "Otautahi Community Housing Trust - OCHT",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/fea6acda-2714-4a62-8815-2743493cde30",
-    "adminPortal": "https://businesscentral.dynamics.com/712d71e3-5f9c-4f7f-83ed-2c0999d36997/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/712d71e3-5f9c-4f7f-83ed-2c0999d36997/admin",
+    "area": "CHC"
   },
   {
     "entraTenantId": "76b44248-1616-46f4-af8c-16eb5ca3c93c",
     "tenantDescription": "PAUA Early Childhood Home Based Care Service",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/76b44248-1616-46f4-af8c-16eb5ca3c93c",
-    "adminPortal": "https://businesscentral.dynamics.com/76b44248-1616-46f4-af8c-16eb5ca3c93c/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/76b44248-1616-46f4-af8c-16eb5ca3c93c/admin",
+    "area": ""
   },
   {
     "entraTenantId": "17e9efab-4e02-45e9-ae54-491c41d3412e",
     "tenantDescription": "PEP Worldwide NZ",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/17e9efab-4e02-45e9-ae54-491c41d3412e",
-    "adminPortal": "https://businesscentral.dynamics.com/17e9efab-4e02-45e9-ae54-491c41d3412e/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/17e9efab-4e02-45e9-ae54-491c41d3412e/admin",
+    "area": ""
   },
   {
     "entraTenantId": "e402afc3-b00f-4e12-a4d4-7bf66b5e4119",
     "tenantDescription": "PFP Ltd",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/e402afc3-b00f-4e12-a4d4-7bf66b5e4119",
-    "adminPortal": "https://businesscentral.dynamics.com/e402afc3-b00f-4e12-a4d4-7bf66b5e4119/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/e402afc3-b00f-4e12-a4d4-7bf66b5e4119/admin",
+    "area": ""
   },
   {
     "entraTenantId": "d9030b33-9bcc-44fd-92ba-04e977709857",
     "tenantDescription": "Pacific Cooperation Foundation",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/d9030b33-9bcc-44fd-92ba-04e977709857",
-    "adminPortal": "https://businesscentral.dynamics.com/d9030b33-9bcc-44fd-92ba-04e977709857/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/d9030b33-9bcc-44fd-92ba-04e977709857/admin",
+    "area": ""
   },
   {
     "entraTenantId": "5ccca697-ef32-4eb4-ad6f-7b8081c36ad1",
     "tenantDescription": "Parininihi Ki Waitotara Incorporation",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/5ccca697-ef32-4eb4-ad6f-7b8081c36ad1",
-    "adminPortal": "https://businesscentral.dynamics.com/5ccca697-ef32-4eb4-ad6f-7b8081c36ad1/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/5ccca697-ef32-4eb4-ad6f-7b8081c36ad1/admin",
+    "area": ""
   },
   {
     "entraTenantId": "96410bb2-37b5-495a-a169-c47e03e73007",
     "tenantDescription": "Parrs Products",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/61fafeef-dee7-4fff-8fbb-78fd33ffd81f",
-    "adminPortal": "https://businesscentral.dynamics.com/96410bb2-37b5-495a-a169-c47e03e73007/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/96410bb2-37b5-495a-a169-c47e03e73007/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "0a8f5fe1-0b0d-4949-93e4-1e806c94d153",
     "tenantDescription": "Perry Group",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/f09dbfe6-f397-4ed0-9489-9cae5a295418",
-    "adminPortal": "https://businesscentral.dynamics.com/0a8f5fe1-0b0d-4949-93e4-1e806c94d153/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/0a8f5fe1-0b0d-4949-93e4-1e806c94d153/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "9700933a-1533-4973-a827-2f8cfdcaadaf",
     "tenantDescription": "Piritahi",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/9700933a-1533-4973-a827-2f8cfdcaadaf",
-    "adminPortal": "https://businesscentral.dynamics.com/9700933a-1533-4973-a827-2f8cfdcaadaf/admin"
-  },
-  {
-    "entraTenantId": "Gasfitters and Drainlayers Board",
-    "tenantDescription": "Plumbers",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/ Gasfitters and Drainlayers Board",
-    "adminPortal": "https://businesscentral.dynamics.com/ Gasfitters and Drainlayers Board/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/9700933a-1533-4973-a827-2f8cfdcaadaf/admin",
+    "area": ""
   },
   {
     "entraTenantId": "c4ddc036-b57b-4720-a669-757940954bf9",
     "tenantDescription": "Port Taranaki",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/c4ddc036-b57b-4720-a669-757940954bf9",
-    "adminPortal": "https://businesscentral.dynamics.com/c4ddc036-b57b-4720-a669-757940954bf9/admin"
+    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/1369d942-c470-4f00-9adf-c75bd71427e0",
+    "adminPortal": "https://businesscentral.dynamics.com/c4ddc036-b57b-4720-a669-757940954bf9/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "60bce2b1-c2ab-42cd-8155-849f783d1dbe",
     "tenantDescription": "PortConnect",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/60bce2b1-c2ab-42cd-8155-849f783d1dbe",
-    "adminPortal": "https://businesscentral.dynamics.com/60bce2b1-c2ab-42cd-8155-849f783d1dbe/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/60bce2b1-c2ab-42cd-8155-849f783d1dbe/admin",
+    "area": ""
   },
   {
     "entraTenantId": "170b3395-f819-4f84-80b7-c529900d784b",
     "tenantDescription": "PowerNet Ltd",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/be9e5e33-9535-400c-8cca-edf0ca8592a9",
-    "adminPortal": "https://businesscentral.dynamics.com/170b3395-f819-4f84-80b7-c529900d784b/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/170b3395-f819-4f84-80b7-c529900d784b/admin",
+    "area": "CHC"
   },
   {
     "entraTenantId": "bbc3b1cc-68b5-48c2-b5fe-c3e8aa1ea5f8",
     "tenantDescription": "Prepack Limited",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/dc337d1d-b55c-4803-8585-e51ac42cf24e",
-    "adminPortal": "https://businesscentral.dynamics.com/bbc3b1cc-68b5-48c2-b5fe-c3e8aa1ea5f8/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/bbc3b1cc-68b5-48c2-b5fe-c3e8aa1ea5f8/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "cd2a8153-be65-4228-a259-31e4b61d12c5",
     "tenantDescription": "RD PETROLEUM LTD",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/dfb90809-7815-4313-a996-b3d76fe35a7f",
-    "adminPortal": "https://businesscentral.dynamics.com/cd2a8153-be65-4228-a259-31e4b61d12c5/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/cd2a8153-be65-4228-a259-31e4b61d12c5/admin",
+    "area": "CHC"
   },
   {
     "entraTenantId": "4400e9d4-9063-46ba-9934-840ff4cbf388",
     "tenantDescription": "RealNZ",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/be52a73b-4480-4b12-8cd4-45b2f8f82d23",
-    "adminPortal": "https://businesscentral.dynamics.com/4400e9d4-9063-46ba-9934-840ff4cbf388/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/4400e9d4-9063-46ba-9934-840ff4cbf388/admin",
+    "area": "CHC"
   },
   {
     "entraTenantId": "c35e3186-0170-4f9c-9671-92cd541702ab",
     "tenantDescription": "Resero",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/1a7c44cb-22f4-4be7-b274-75d7c95c0ccc",
-    "adminPortal": "https://businesscentral.dynamics.com/c35e3186-0170-4f9c-9671-92cd541702ab/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/c35e3186-0170-4f9c-9671-92cd541702ab/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "6d8c062c-6bdc-4fb9-87dc-08aea00c443f",
     "tenantDescription": "Resero Global",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/c9e690c3-ca17-4dde-9b3d-722c599ff8eb",
-    "adminPortal": "https://businesscentral.dynamics.com/6d8c062c-6bdc-4fb9-87dc-08aea00c443f/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/6d8c062c-6bdc-4fb9-87dc-08aea00c443f/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "44b89919-152b-43d4-8ef5-3b9e38baf6fc",
     "tenantDescription": "SP Investment Group Limited",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/44b89919-152b-43d4-8ef5-3b9e38baf6fc",
-    "adminPortal": "https://businesscentral.dynamics.com/44b89919-152b-43d4-8ef5-3b9e38baf6fc/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/44b89919-152b-43d4-8ef5-3b9e38baf6fc/admin",
+    "area": ""
   },
   {
     "entraTenantId": "559ebbc4-f890-4333-b2b5-309c77650b92",
     "tenantDescription": "Site Safe New Zealand - Corp",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/559ebbc4-f890-4333-b2b5-309c77650b92",
-    "adminPortal": "https://businesscentral.dynamics.com/559ebbc4-f890-4333-b2b5-309c77650b92/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/559ebbc4-f890-4333-b2b5-309c77650b92/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "c0bea908-0b62-4fc8-88a3-747017384cdc",
     "tenantDescription": "Site Safe New Zealand Inc",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/ad101e7b-6b15-495e-90c3-8c5ba79360b3",
-    "adminPortal": "https://businesscentral.dynamics.com/c0bea908-0b62-4fc8-88a3-747017384cdc/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/c0bea908-0b62-4fc8-88a3-747017384cdc/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "2c47dbc1-6077-4eea-8f6d-a40258a8dc12",
     "tenantDescription": "Skin Institute",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/2c47dbc1-6077-4eea-8f6d-a40258a8dc12",
-    "adminPortal": "https://businesscentral.dynamics.com/2c47dbc1-6077-4eea-8f6d-a40258a8dc12/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/2c47dbc1-6077-4eea-8f6d-a40258a8dc12/admin",
+    "area": ""
   },
   {
     "entraTenantId": "37e1cace-7d20-4966-b4d8-5a1e59e29d03",
     "tenantDescription": "Springbrook",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/3278618c-c110-426a-b19b-bacab44cc645",
-    "adminPortal": "https://businesscentral.dynamics.com/37e1cace-7d20-4966-b4d8-5a1e59e29d03/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/37e1cace-7d20-4966-b4d8-5a1e59e29d03/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "58b0862d-bab3-4332-9b8d-dbb72e849d4f",
     "tenantDescription": "Stresscrete",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/58b0862d-bab3-4332-9b8d-dbb72e849d4f",
-    "adminPortal": "https://businesscentral.dynamics.com/58b0862d-bab3-4332-9b8d-dbb72e849d4f/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/58b0862d-bab3-4332-9b8d-dbb72e849d4f/admin",
+    "area": ""
   },
   {
     "entraTenantId": "0051ec7f-c4f5-41e6-b397-24b855b2a57e",
     "tenantDescription": "TAS",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/b87f2b84-6ab0-4f5e-889e-10bb9d5094b2",
-    "adminPortal": "https://businesscentral.dynamics.com/0051ec7f-c4f5-41e6-b397-24b855b2a57e/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/0051ec7f-c4f5-41e6-b397-24b855b2a57e/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "75c87bf0-6130-4555-b9fa-e4cf3539f058",
     "tenantDescription": "Taumata Arowai",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/33e8f059-b506-48de-a643-e6d11babe4fa",
-    "adminPortal": "https://businesscentral.dynamics.com/75c87bf0-6130-4555-b9fa-e4cf3539f058/admin"
-  },
-  {
-    "entraTenantId": "09f38e06-ce65-49d5-be0d-cdc896aab6dc",
-    "tenantDescription": "Te Pūkenga - EarnLearn",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/09f38e06-ce65-49d5-be0d-cdc896aab6dc",
-    "adminPortal": "https://businesscentral.dynamics.com/09f38e06-ce65-49d5-be0d-cdc896aab6dc/admin"
-  },
-  {
-    "entraTenantId": "a7b3ef24-34ea-4282-b650-2d6826266c1d",
-    "tenantDescription": "Te Pūkenga - EarnLearn",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/a7b3ef24-34ea-4282-b650-2d6826266c1d",
-    "adminPortal": "https://businesscentral.dynamics.com/a7b3ef24-34ea-4282-b650-2d6826266c1d/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/75c87bf0-6130-4555-b9fa-e4cf3539f058/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "8e35f753-b295-41fb-85ae-b9141c91d155",
     "tenantDescription": "Te Rūnanga o Ngāi Tahu",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/8e35f753-b295-41fb-85ae-b9141c91d155",
-    "adminPortal": "https://businesscentral.dynamics.com/8e35f753-b295-41fb-85ae-b9141c91d155/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/8e35f753-b295-41fb-85ae-b9141c91d155/admin",
+    "area": "CHC"
   },
   {
     "entraTenantId": "a3769c26-1242-4fbd-b4a1-5b2df157e423",
     "tenantDescription": "Team Alchemy Consulting Ltd",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/a3769c26-1242-4fbd-b4a1-5b2df157e423",
-    "adminPortal": "https://businesscentral.dynamics.com/a3769c26-1242-4fbd-b4a1-5b2df157e423/admin"
-  },
-  {
-    "entraTenantId": "9ab59b47-ca50-4950-b82a-c2d18cd78bf0",
-    "tenantDescription": "The Lines Company",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/9ab59b47-ca50-4950-b82a-c2d18cd78bf0",
-    "adminPortal": "https://businesscentral.dynamics.com/9ab59b47-ca50-4950-b82a-c2d18cd78bf0/admin"
-  },
-  {
-    "entraTenantId": "e807b3ff-7bfe-4e3b-8186-1e692c00ff01",
-    "tenantDescription": "The Video Shop Ltd",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/e807b3ff-7bfe-4e3b-8186-1e692c00ff01",
-    "adminPortal": "https://businesscentral.dynamics.com/e807b3ff-7bfe-4e3b-8186-1e692c00ff01/admin"
+    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/54858153-0cf6-4004-a064-10052baf7b08",
+    "adminPortal": "https://businesscentral.dynamics.com/a3769c26-1242-4fbd-b4a1-5b2df157e423/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "d5196835-42dd-4763-b5b8-96e424f2df95",
     "tenantDescription": "Tumblar Products Ltd",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/d5196835-42dd-4763-b5b8-96e424f2df95",
-    "adminPortal": "https://businesscentral.dynamics.com/d5196835-42dd-4763-b5b8-96e424f2df95/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/d5196835-42dd-4763-b5b8-96e424f2df95/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "0eea7c41-a9ee-4410-9c1e-e61709d4b800",
     "tenantDescription": "Utilities Disputes",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/0eea7c41-a9ee-4410-9c1e-e61709d4b800",
-    "adminPortal": "https://businesscentral.dynamics.com/0eea7c41-a9ee-4410-9c1e-e61709d4b800/admin"
+    "accessId": "",
+    "adminPortal": "https://businesscentral.dynamics.com/0eea7c41-a9ee-4410-9c1e-e61709d4b800/admin",
+    "area": ""
   },
   {
     "entraTenantId": "f797fc7f-6de0-4fef-bc5b-8f78271a473b",
     "tenantDescription": "Variety - the Children's Charity",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/f797fc7f-6de0-4fef-bc5b-8f78271a473b",
-    "adminPortal": "https://businesscentral.dynamics.com/f797fc7f-6de0-4fef-bc5b-8f78271a473b/admin"
+    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/91943984-2b0d-44e7-bf46-a858a66c5dcd",
+    "adminPortal": "https://businesscentral.dynamics.com/f797fc7f-6de0-4fef-bc5b-8f78271a473b/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "4d1cad97-0a73-4067-9a4b-ce3e7107263f",
     "tenantDescription": "Wareing Group Ltd",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/6139bb3d-3ed8-4a4f-8bfb-f43df297309c",
-    "adminPortal": "https://businesscentral.dynamics.com/4d1cad97-0a73-4067-9a4b-ce3e7107263f/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/4d1cad97-0a73-4067-9a4b-ce3e7107263f/admin",
+    "area": "CHC"
   },
   {
     "entraTenantId": "fbc08ccc-2a97-4737-8c0f-7cb688ac5ce3",
     "tenantDescription": "Weightrax",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/fbc08ccc-2a97-4737-8c0f-7cb688ac5ce3",
-    "adminPortal": "https://businesscentral.dynamics.com/fbc08ccc-2a97-4737-8c0f-7cb688ac5ce3/admin"
+    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/a5d2cdb4-6db2-4eda-95b9-f5269deb3e39",
+    "adminPortal": "https://businesscentral.dynamics.com/fbc08ccc-2a97-4737-8c0f-7cb688ac5ce3/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "f43ee2bf-654a-49a4-a26d-41b7c49972dd",
     "tenantDescription": "Wellington International Airport Ltd",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/3808cf97-6470-41f4-99df-210ef3ae55b3",
-    "adminPortal": "https://businesscentral.dynamics.com/f43ee2bf-654a-49a4-a26d-41b7c49972dd/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/f43ee2bf-654a-49a4-a26d-41b7c49972dd/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "6c2361c9-f888-4ec1-b345-ab0efb7072ae",
     "tenantDescription": "XE New Zealand",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/16d41da4-5701-4e9c-9860-272fd3072773",
-    "adminPortal": "https://businesscentral.dynamics.com/6c2361c9-f888-4ec1-b345-ab0efb7072ae/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/6c2361c9-f888-4ec1-b345-ab0efb7072ae/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "dbdbe366-e40f-44dd-b042-0ffa2df3eb43",
     "tenantDescription": "Yellow Pages New Zealand",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/dbdbe366-e40f-44dd-b042-0ffa2df3eb43",
-    "adminPortal": "https://businesscentral.dynamics.com/dbdbe366-e40f-44dd-b042-0ffa2df3eb43/admin"
+    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/941d9ea5-31ba-4050-bed5-02a18570fab1",
+    "adminPortal": "https://businesscentral.dynamics.com/dbdbe366-e40f-44dd-b042-0ffa2df3eb43/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "90361f54-d3da-4ed9-b18e-afec2e4a78e1",
     "tenantDescription": "chemfreight.co.nz",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/90361f54-d3da-4ed9-b18e-afec2e4a78e1",
-    "adminPortal": "https://businesscentral.dynamics.com/90361f54-d3da-4ed9-b18e-afec2e4a78e1/admin"
+    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/71e3ed99-0f49-47bf-98d1-b1f504bcdfc3",
+    "adminPortal": "https://businesscentral.dynamics.com/90361f54-d3da-4ed9-b18e-afec2e4a78e1/admin",
+    "area": "AKL"
   },
   {
     "entraTenantId": "02eec3bd-f10c-48dc-ac23-322e65c5ba0c",
     "tenantDescription": "iPayroll Ltd.",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/95e5a6a6-b45e-4bf7-af41-fb98b46840d8",
-    "adminPortal": "https://businesscentral.dynamics.com/02eec3bd-f10c-48dc-ac23-322e65c5ba0c/admin"
+    "adminPortal": "https://businesscentral.dynamics.com/02eec3bd-f10c-48dc-ac23-322e65c5ba0c/admin",
+    "area": "WLG"
   },
   {
     "entraTenantId": "8275b063-1eff-429c-b344-4859c8879a50",
     "tenantDescription": "lnzltd",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/8275b063-1eff-429c-b344-4859c8879a50",
-    "adminPortal": "https://businesscentral.dynamics.com/8275b063-1eff-429c-b344-4859c8879a50/admin"
+    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/6c3a36e2-13ee-4731-a5e0-97ea6a7df26c",
+    "adminPortal": "https://businesscentral.dynamics.com/8275b063-1eff-429c-b344-4859c8879a50/admin",
+    "area": "WLG"
   }
 ]
