@@ -703,13 +703,6 @@
     "area": "WLG"
   },
   {
-    "entraTenantId": "c0bea908-0b62-4fc8-88a3-747017384cdc",
-    "tenantDescription": "Site Safe New Zealand Inc",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/ad101e7b-6b15-495e-90c3-8c5ba79360b3",
-    "adminPortal": "https://businesscentral.dynamics.com/c0bea908-0b62-4fc8-88a3-747017384cdc/admin",
-    "area": "WLG"
-  },
-  {
     "entraTenantId": "2c47dbc1-6077-4eea-8f6d-a40258a8dc12",
     "tenantDescription": "Skin Institute",
     "accessId": "",
