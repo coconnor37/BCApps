@@ -459,7 +459,7 @@
   },
   {
     "entraTenantId": "92f0ebda-c7b7-48c7-8c9c-ebb52bc64630",
-    "tenantDescription": "Medical Assurance Society",
+    "tenantDescription": "Medical Assurance Society - MAS",
     "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/8fc7c5be-89fd-4718-ac1b-14f830ff0bd8",
     "adminPortal": "https://businesscentral.dynamics.com/92f0ebda-c7b7-48c7-8c9c-ebb52bc64630/admin",
     "area": "WLG"
@@ -697,8 +697,8 @@
   },
   {
     "entraTenantId": "559ebbc4-f890-4333-b2b5-309c77650b92",
-    "tenantDescription": "Site Safe New Zealand - Corp",
-    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/559ebbc4-f890-4333-b2b5-309c77650b92",
+    "tenantDescription": "Site Safe New Zealand",
+    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/ab12b3cc-a6b8-496b-a001-4a3152383983",
     "adminPortal": "https://businesscentral.dynamics.com/559ebbc4-f890-4333-b2b5-309c77650b92/admin",
     "area": "WLG"
   },
