@@ -353,10 +353,10 @@
   },
   {
     "entraTenantId": "0a8f5fe1-0b0d-4949-93e4-1e806c94d153",
-    "tenantDescription": "Perry Group"
+    "tenantDescription": "Perry Group TEST"
   },
   {
-    "entraTenantId": "123",
+    "entraTenantId": "0a8f5fe1-0b0d-4949-93e4-1e806c94d153",
     "tenantDescription": "Pharmalink"
   },
   {
