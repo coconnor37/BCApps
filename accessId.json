@@ -626,6 +626,13 @@
     "area": "AKL"
   },
   {
+    "entraTenantId": "",
+    "tenantDescription": "Pharmalink",
+    "accessId": "https://myaccess.microsoft.com/@THETACO1NZ.onmicrosoft.com#/access-packages/cd81c316-a35c-4e94-87f5-0d03fad3e582",
+    "adminPortal": "",
+    "area": ""
+  },
+  {
     "entraTenantId": "9700933a-1533-4973-a827-2f8cfdcaadaf",
     "tenantDescription": "Piritahi",
     "accessId": "",
